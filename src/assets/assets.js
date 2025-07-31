@@ -87,6 +87,7 @@ export const specialityData = [
 
 export const doctors = [
     {
+        //richard@medilatch.com  use like this  for all and password as richard123
         _id: 'doc1',
         name: 'Dr. Richard James',
         image: doc1,
